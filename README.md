@@ -1,13 +1,16 @@
-// Magic Square is a array of numbers where rows,columns and diagonal are all equal to same value.__
 
-// For example in the matrix below
+## Magic Square
 
-//  * 8 * 1 * 6 * 
+* Magic Square is a array of numbers where rows,columns and diagonal are all equal to same value.__
 
-//  * 3 * 5 * 7 *
+* For example in the matrix below
 
-//  * 4 * 9 * 2 *
+*  * 8 * 1 * 6 * 
 
-// The sum of rows,columns and matrix are equal to 15. 
+*  * 3 * 5 * 7 *
 
-// We can write this in two ways (atleast i can think of) one is using foreach and the other one is using sum constraint.
+*  * 4 * 9 * 2 *
+
+* The sum of rows,columns and matrix are equal to 15. 
+
+* We can write this in two ways (atleast i can think of) one is using foreach and the other one is using sum constraint.
